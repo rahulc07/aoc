@@ -7,8 +7,8 @@ I'll try and use a different programming language every day, let's see what happ
 
 day 1 - c  
 day 2 - python  
-day 3 - java  
-day 4- bash  
+day 3 - bash
+day 4- java
 day 5 - dart  
 day 6 - js  
 day 7 - Rust  
